@@ -17,7 +17,7 @@
 
 <br />
 
-Hello, my name is Serg
+Hello, my name is Serg!
 I’m starting learning Swift.
   
 **Languages and Tools:**  
