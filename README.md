@@ -19,10 +19,6 @@
 
 Hello, my name is Serg
 I’m starting learning Swift.
-
-<br />
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/kalashnikov-ulmic/kalashnikov-ulmic/main/%D0%A3%D1%87%D1%83%D1%81%D1%8C%20%D0%BD%D0%B0%20Slurm.png?raw=true" width="400" height="280" />
   
 **Languages and Tools:**  
 
@@ -38,5 +34,5 @@ I’m starting learning Swift.
 <!-- TODO-IST:START -->
 * [x] Изучить основы Swift
 * [ ] Начать стажироваться в разработке
-* [ ] Перейти на позицию junior IOS-разработчик     
+* [ ] Перейти на позицию junior IOS-разработчика     
 <!-- TODO-IST:END -->
