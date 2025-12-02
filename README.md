@@ -28,7 +28,7 @@ Rapid Learning Curve: Applying decades of technical problem-solving to new domai
 <br>
 🔄 **Career Transition to iOS Development**
 <br>
-With over 15 years in IT infrastructure as a Senior Wintel Engineer and IT Department Head, I'm now channeling my technical expertise into a new way: iOS Development. My deep understanding of complex systems and leadership experience provide a unique foundation for building robust mobile applications.
+With over 15 years in IT infrastructure as a Senior Wintel Engineer and IT Department Head, I'm now channeling my technical expertise into a new way: iOS Development. My deep understanding of complex systems and leadership experience provide a unique foundation for building robust mobile applications
 <br><br>
 🚀 **Current Focus: iOS Development**
 <br>
